@@ -1,0 +1,16 @@
+area:hover{
+    border: 1px blue solid;
+}
+
+hr.sep {
+    border: 10px solid #212529;
+    border-radius: 5px;
+  }
+
+.organo{
+    font-size: 3rem;
+}
+
+.text-justify {
+  text-align: justify;
+}
